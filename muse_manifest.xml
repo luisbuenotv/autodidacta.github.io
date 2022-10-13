@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WebApp.com" resolutions="1x" timestamp="1665683605927">
+  <folder name="css">
+    <file name="site_global.css" crc="14225328"/>
+    <file name="index.css" crc="319786278" ref="index"/>
+    <file name="iefonts_index.css" crc="3790856534" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u888.php" crc="481366663" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="green-bg.png" crc="3906196488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orange-bg.png" crc="4194313429" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder_small-u4166-fr.jpg" crc="281523843" ref="index"/>
+    <file name="placeholder-u2553-fr.jpg" crc="332349604" ref="index"/>
+    <file name="question_normal.png" crc="3959076316" ref="index">
+      <caption webpage="index" alt="UT EGET FELIS"/>
+      <caption webpage="index" alt="UT EGET FELIS"/>
+      <caption webpage="index" alt="UT EGET FELIS"/>
+      <caption webpage="index" alt="MAURIS SIT AMET"/>
+      <caption webpage="index" alt="MAURIS SIT AMET"/>
+      <caption webpage="index" alt="MAURIS SIT AMET"/>
+      <caption webpage="index" alt="MAURIS SIT AMET2"/>
+      <caption webpage="index" alt="MAURIS SIT AMET2"/>
+      <caption webpage="index" alt="MAURIS SIT AMET2"/>
+      <caption webpage="index" alt="LOREM IPSUM"/>
+      <caption webpage="index" alt="LOREM IPSUM"/>
+      <caption webpage="index" alt="LOREM IPSUM"/>
+    </file>
+    <file name="question.jpg" crc="3802219672" ref="index">
+      <caption webpage="index" alt="UT EGET FELIS"/>
+      <caption webpage="index" alt="MAURIS SIT AMET"/>
+      <caption webpage="index" alt="MAURIS SIT AMET2"/>
+      <caption webpage="index" alt="LOREM IPSUM"/>
+    </file>
+    <file name="checkbox.png" crc="4258989587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder.jpg" crc="356454477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder373x240.jpg" crc="4154539803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="left_button.png" crc="4286404702" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right_button.png" crc="522112674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_button.png" crc="4021817847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="placeholder_small.jpg" crc="481021176" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder412x266.jpg" crc="3911807650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-u107-fr.jpg" crc="3851787693" ref="index"/>
+    <file name="purple-bg.png" crc="4028653270" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart_icon.png" crc="233067463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4046498137" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="98403135" seo="true" mt="1407282716505" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="263663261" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="246610964" seo="true" mt="1407282697538" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4175005372" seo="true" mt="1665682383172" redirect="true"/>
+</manifest>
